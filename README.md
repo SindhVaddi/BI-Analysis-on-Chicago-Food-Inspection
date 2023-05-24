@@ -3,5 +3,7 @@ This information is derived from inspections of restaurants and other food estab
 
 
 • Designed dimensional models to create Fact and dimensional tables respective to Chicago
-• Executed profiling, transformations using regular expressions and parsing, and Cleaning on Alteryx
-• Created reports and dashboards using Tableau and Power BI to highlight inspections, violations, and severity over time. (https://public.tableau.com/app/profile/sindhuja.vaddi/viz/BIAnalysisofChicagoFoodInspection/ChicagoFoodInspection)
+• Utilized Alteryx to execute data profiling, transformations employing regular expressions and parsing techniques, and data-cleaning operations
+• Created an extensive collection of 100+ reports and dashboards using Tableau and Power BI to highlight inspections, violations, and severity over time
+
+(https://public.tableau.com/app/profile/sindhuja.vaddi/viz/BIAnalysisofChicagoFoodInspection/ChicagoFoodInspection)
